@@ -1,21 +1,21 @@
 # Peter G. Ossorio Collection
 ## Description
-[Enter abstract of the collection, often found on the landing page and provided by the project owner]
+Peter Garcia Ossorio (1926-2007) was an American psychologist best known for his development of the field of Descriptive Psychology.  Ossorio taught at CU Boulder from 1961-1991.  The materials in this digital collection are selections from the Peter G. Ossorio papers, held in the CU Boulder Libraries' Rare & Distinctive Collections.
 
-Permanent address to digital collection: []().<br /> 
+Permanent address to digital collection: [https://doi.org/10.60807/mkd4-gg92](https://doi.org/10.60807/mkd4-gg92).<br /> 
 Please use the same link when sharing or citing the collection.
 Current Extended MODS Metadata Schema
 
 ## Metadata
 ### Collection Name
-Name of the collection:
+Name of the collection: Peter G. Ossorio Collection
 ### Title
 Title derived from original captions on the work by the creator. If the original title is not available titles are created by the cataloger.
 
 ### Name
 Individual(s) or corporate entities that created or are associated with the work. 
 
-Common names seen in the collection include: 
+Common names seen in the collection include: [Ossorio, Peter G.](http://id.worldcat.org/fast/16889)
 
 ### Resource Type
 A term that specifies the characteristics and general type of content of the resource. 
