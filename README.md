@@ -125,11 +125,10 @@ Rights statement comes from [rightsstatements.org](https://rightsstatements.org/
 ## Resources
 For more information about this collection visit the webpage at the CU Boulder ArchivesSpace; []().
 
- For all recordings and an outline of th course content visit the following webpge from the Society for Descriptive Psychology. http://www.sdp.org/sdppubs-publications/personality-and-personality-theories-lectures-by-peter-g-ossorio-ph-d/.
+For all recordings and an outline of the course content, visit the following webpage from the Society for Descriptive Psychology at http://www.sdp.org/sdppubs-publications/personality-and-personality-theories-lectures-by-peter-g-ossorio-ph-d/.
 
 ## Notes
 Please note that the metadata contained in this repository may not be the most up to date, but is updated on a continuing basis.
 
 ## Metadata Versions
-[Also include notes about metadata versions uploaded to Github. For example, the date and a brief description of the change in metadata from its previous version.]
 
