@@ -92,11 +92,11 @@ Terms used:
 ### Identifier
 Contains a unique standard number or code that distinctively identifies a resource. Typically the file name. 
 
-Example:
+Example: U183071307027_narv_ossorioPeter_37-08_advancedPersonalityLectures2_a.mp3
 ### Identifier LUNA	
 Original link in LUNA to the resource. 
 
-Example: U183071307027_narv_ossorioPeter_37-08_advancedPersonalityLectures2_a.mp3
+Example: 
 ### Identifier ARK
 Controlled, stable link to the resource. 
 
