@@ -1,1 +1,1 @@
-# digColl_peterOssorioCollection
+# Peter G. Ossorio Collection
