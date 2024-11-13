@@ -20,43 +20,32 @@ Common names seen in the collection include: [Ossorio, Peter G.](http://id.world
 ### Resource Type
 A term that specifies the characteristics and general type of content of the resource. 
 
-Type terms used in this collection include: 
+Type terms used in this collection include: Audio
 
 ### Genre
 A term or terms that designate a category characterizing a particular style, form, or content. 
 
-Genre terms used in the collection include:
+Genre terms used in the collection include: Lectures
 
 ### Place Created
 Location of work creation or publication city. 
 
-Places include:
-
-### Publisher
-The name of the entity that published, printed, distributed, released, issued, or produced the resource.
-
-### Date Issued
-The date that the resource was published, released, or issued. 
-
-Date ranges include:
+Places include: Boulder, Colorado
 
 ### Date Created
 The date of creation of the resource. 
 
-Date ranges include:
+Date ranges include: Fall 1974
 
 ### Date Digitized
 The date on which the resource was digitized or a subsequent snapshot was taken. 
 
-Dates include:
-
-### Edition
-A particular form or version of a published text.
+Dates include: 2024
 
 ### Language
 Contains the textual or coded form for the language of the content of the resource. 
 
-Language(s) seen in this collection include:
+Language(s) seen in this collection include: English
 
 ### Extent
 The size or scale of the work.
