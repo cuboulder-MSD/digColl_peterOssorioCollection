@@ -123,7 +123,7 @@ Statement in collection: This Item is protected by copyright and/or related righ
 Rights statement comes from [rightsstatements.org](https://rightsstatements.org/page/1.0/?language=en)
 
 ## Resources
-For more information about this collection visit the webpage at the CU Boulder ArchivesSpace; []().
+For more information about this collection visit the webpage at the CU Boulder ArchivesSpace; [https://archives.colorado.edu/repositories/2/resources/81](https://archives.colorado.edu/repositories/2/resources/81).
 
 For all recordings and an outline of the course content, visit the following webpage from the Society for Descriptive Psychology at http://www.sdp.org/sdppubs-publications/personality-and-personality-theories-lectures-by-peter-g-ossorio-ph-d/.
 
