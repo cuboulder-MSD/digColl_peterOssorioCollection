@@ -100,7 +100,7 @@ Example:
 ### Identifier ARK
 Controlled, stable link to the resource. 
 
-Example:
+Example: https://ark.colorado.edu/ark:/47540/5b7n2993c0n5
 
 ### Physical Location
 The institution or repository that holds the resource or where it is available: University of Colorado Boulder Libraries Rare and Distinctive Collections
