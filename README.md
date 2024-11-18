@@ -131,5 +131,5 @@ For all recordings and an outline of the course content, visit the following web
 Please note that the metadata contained in this repository may not be the most up to date, but is updated on a continuing basis.
 
 ## Metadata Versions
-11/15/2024 - Peter_G._Ossorio_Collection_20241114143954.csv: Metadata will all audio and video files including VHS, DVD, and audio tapes.
-11/14/2024 - Peter_G._Ossorio_Collection_20241114143954.csv: First batch of metadata with VHS and audio tapes.
+11/15/2024 - Peter_G._Ossorio_Collection_20241115095544.csv: Metadata including all audio and video files from ASpace; including VHS, DVD, and audio tapes.
+11/14/2024 - Peter_G._Ossorio_Collection_20241114143954.csv: First batch of metadata including VHS and audio tapes.
